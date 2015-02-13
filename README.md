@@ -5,7 +5,7 @@ Twitter data mining project for for mapping flu spread in University of Arizona 
 
 # Report
 
-A link to the report :
+A link to the report : https://github.com/amit4111989/twitter_data_mining_disease_mapping/blob/master/report(pdf)/final_project_report.pdf
 
 # Results
 
