@@ -11,7 +11,7 @@ A link to the report : https://github.com/amit4111989/twitter_data_mining_diseas
 
 Data was mined from Oct 2014 - Dec 2014
 
-!["Pic not found"](cover_pic.png)
+!["Pic not found"](results.png)
 
 # Technology Used
 
